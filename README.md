@@ -1,16 +1,3 @@
-# flutter_application_2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1、在根目录下创建 plugin 目录
+2、终端中进入 plugin 下，输入 flutter create --org com.example --platforms=android --template=plugin alive_plugin
+3、按照我 b 站视频的教程完成代码编写
